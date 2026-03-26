@@ -1,0 +1,1 @@
+this is a note for the pratice of using git command-line interface
